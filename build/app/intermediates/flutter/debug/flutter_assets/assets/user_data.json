@@ -1,0 +1,14 @@
+{
+  "user": {
+    "icNumber": "1234567",
+    "password": "jada19090",
+    "data": {
+      "access_token": "SFMyNTY.ZmU3OWY5NDUtNTJlOC00Yzc1LThhZmUtZmE4NzBkZmRiZmZj.W6dWivDyLMXP7qadazaFic5Jmmz6WNMAHAhxJPRe9yU",
+      "icNumber": "1234567",
+      "name": "Jada",
+      "id": 1,
+      "renewal_token": "SFMyNTY.MzA4MWExOTctY2U4NC00Y2NlLTk1MTEtYWI4M2RlNWE1Nzlk.GsTsOi5jLyb_ZC9m8IjN3QZVTY4EOLzfSY_Y_fmnGSc",
+      "type": "customer"
+    }
+  }
+}
